@@ -31,11 +31,12 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="Java" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+  
 </p>
 
 **Connect with me:**
 <p align="left">
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ariansevillano" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
@@ -44,36 +45,6 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-<details>
-  <summary>✨ Github Stats</summary>
-  <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" />
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</details>
-<details>
-  <summary>🔥 Top languages</summary>
-  <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula" /> <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</details>
-
 -----
-Credits: [VatanaChhorn](https://github.com/VatanaChhorn)
 
-Last Edited on: 03/09/2020
+Last Edited on: 22/02/2025
