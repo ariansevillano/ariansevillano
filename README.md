@@ -34,6 +34,8 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
   
 </p>
 
+---
+
 **Connect with me:**
 <p align="left">
   <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ariansevillano" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -42,9 +44,5 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
 
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
-
----
-
------
 
 Last Edited on: 22/02/2025
