@@ -58,6 +58,11 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40" /></code>&nbsp;
 </p>
 
+**Cloud:**
+<p align="left">
+  <code><img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" alt="aws" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="gcp" width="40" height="40" /></code>&nbsp;
+</p>
 
 ---
 
