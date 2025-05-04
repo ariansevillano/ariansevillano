@@ -41,8 +41,7 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
 <p align="left">
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40" /></code>&nbsp;
-</p>
+
 
 **Version Control:**
 <p align="left">
