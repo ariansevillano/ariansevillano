@@ -34,7 +34,7 @@ Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="typescript" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="css" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_48x48.png" alt="kotlin" width="40" height="40" /></code>&nbsp;
+   <!-- Texto del comentario <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin_48x48.png" alt="kotlin" width="40" height="40" /></code>&nbsp;-->
 </p>
 
 **Frameworks:**
