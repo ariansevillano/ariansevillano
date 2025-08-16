@@ -2,7 +2,7 @@
 
 ### I'm Arian Sevillano,
 
-Currently a Software Engineer at  <a href="https://www.zytrust.com/">ZyTrust</a>, Perú, pursuing bachelor’s degree in Systems Engineering.
+Currently a Software Engineer at  <a href="https://www.zealitconsultants.ai/">Zeal IT Consultants</a>, Dallas, Texas, also pursuing a bachelor’s degree in Systems Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
